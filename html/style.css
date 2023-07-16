@@ -1,0 +1,26 @@
+
+li{
+    
+    display: inline;
+    color: red;
+    padding: 50px;
+}
+
+#name{
+    text-align: center;
+    font-size: 50px;
+}
+
+ul{
+    border-bottom: 1px solid black;
+    padding-bottom: 14px;
+    
+    
+}
+
+#nave{
+  
+    border-top: 1px solid black;
+
+}
+
